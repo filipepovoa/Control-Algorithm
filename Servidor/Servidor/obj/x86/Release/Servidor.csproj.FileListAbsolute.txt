@@ -1,4 +1,0 @@
-L:\Informática Industrial\Trabalho_Final\Servidor\Servidor\bin\Release\Servidor.exe
-L:\Informática Industrial\Trabalho_Final\Servidor\Servidor\bin\Release\Servidor.pdb
-L:\Informática Industrial\Trabalho_Final\Servidor\Servidor\obj\x86\Release\Servidor.exe
-L:\Informática Industrial\Trabalho_Final\Servidor\Servidor\obj\x86\Release\Servidor.pdb

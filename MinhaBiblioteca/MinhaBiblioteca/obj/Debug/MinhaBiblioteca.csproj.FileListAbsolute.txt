@@ -1,5 +1,0 @@
-F:\Informática Industrial\Trabalho_Final_modificado\MinhaBiblioteca\MinhaBiblioteca\bin\Debug\MinhaBiblioteca.dll
-F:\Informática Industrial\Trabalho_Final_modificado\MinhaBiblioteca\MinhaBiblioteca\bin\Debug\MinhaBiblioteca.pdb
-F:\Informática Industrial\Trabalho_Final_modificado\MinhaBiblioteca\MinhaBiblioteca\obj\Debug\MinhaBiblioteca.dll
-F:\Informática Industrial\Trabalho_Final_modificado\MinhaBiblioteca\MinhaBiblioteca\obj\Debug\MinhaBiblioteca.pdb
-F:\Informática Industrial\Trabalho_Final_modificado\MinhaBiblioteca\MinhaBiblioteca\obj\Debug\MinhaBiblioteca.csprojResolveAssemblyReference.cache
